@@ -1,0 +1,4 @@
+= Gr8Conf 2017 Europe - Express yourself with Groovy DSLs
+
+Sample code and presentation for Express yourself with Groovy DSLs
+talk at Gr8Conf 2017 Europe in Copenhagen.
